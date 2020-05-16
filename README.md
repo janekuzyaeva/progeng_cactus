@@ -1,9 +1,17 @@
+Новое название проекта: Курьерская служба.
+Ссылка на развернутый на сервере сайт: cactus-web.ru
+Ссылка на техническую документацию: cactus-web.ru/documentation
 
-Ссылка на развернутый на сервере сайт: <a href="http://cactus-web.ru"><b>cactus-web.ru</b> </a> <br>
-Ссылка на техническую документацию: <a href="http://cactus-web.ru/documentation"> <b>cactus-web.ru/documentation</b> </a> <br>
+Вход как админ:
+utility12@mail.ru
+AdminAdmin
 
-Вход как админ: <br>utility12@mail.ru<br>    AdminAdmin<br><br>
 
-<strong>Аккаунты, которые уже зарегистрированы, если вы не хотите регистрироваться:</strong><br>
-Вход как отрпавитель: <br>tustov02@mail.ru<br>  UserUser<br><br>
-Вход как доставщик:<br> tustov01@mail.ru<br>  UserUser<br>
+Аккаунты, которые уже зарегистрированы, если вы не хотите регистрироваться:
+Вход как отрпавитель:
+tustov02@mail.ru
+UserUser
+
+Вход как доставщик:
+tustov01@mail.ru
+UserUser
